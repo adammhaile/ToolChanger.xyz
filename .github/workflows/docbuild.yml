@@ -1,12 +1,12 @@
-name: Build and Push Docs
+name: Build and Push Site
 
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build:
-    name: Deploy docs
+    name: Deploy Site
     runs-on: ubuntu-latest
     steps:
       - name: Checkout master
@@ -14,7 +14,7 @@ jobs:
       - uses: actions/setup-python@v1
         with:
           python-version: '3.7.x'
-      - name: Deploy docs
+      - name: Deploy Site
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.15
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
