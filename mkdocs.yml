@@ -1,0 +1,18 @@
+site_name: ToolChanger.xyz
+site_url: https://adammhaile.github.io/E3D_ToolChanger/
+use_directory_urls: false
+# nav:
+#   - Home: index.md
+
+extra_css:
+  - css/extra.css
+theme:
+  name: material
+  favicon: img/favicon.ico
+  logo: img/logo.webp
+  features:
+    - navigation.instant
+    - navigation.expand
+    - toc.autohide
+  palette:
+    primary: light blue
