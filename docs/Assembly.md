@@ -1,8 +1,37 @@
 # Assembly
 
+Obviously, the best place to start with with the official [E3D ToolChanger Assembly Guides](https://e3d-online.dozuki.com/c/ToolChanger_and_Motion_System_Assembly_Guides).
+
+However, there are some things that are handy to know about ahead of time, before reading through the entire build guide. 
+
 ## Required Tools and Consumables
 
-There are a few things that will be required for assembly that do not come with the ToolChanger / Motion System kit, such as:
+You will need the following tools to complete the build. This is mentioned at the very beginning of the official docs, just referencing here for completeness.
+
+- 5mm, 4mm, 2.5mm & 2mm allen keys
+- 12mm box wrench
+- Knife
+- Set/Machinist's Square
+
+There are a few things that will be required for assembly that do not come with the ToolChanger / Motion System kit:
 
 - Blue Loctite
 - Super Glue
+
+## Printed Components
+
+You will need to print a handful of required components before starting the build. For all stock components (from the official [E3D Github](https://github.com/e3donline)) be sure to follow the instructions in the README file for number of each to print along with recommended print settings.
+
+### Tools
+
+- [Stock Bowden Tool STLS](https://github.com/e3donline/ToolChanger/tree/master/V6%20Tool/STLs) - These files are refereced both in [section 3](https://e3d-online.dozuki.com/Guide/03+-+V6+Bowden+Tool+Assembly./103?lang=en) and [section 5](https://e3d-online.dozuki.com/Guide/05+-+V6+Bowden+Tool+&+Dock+Installation./109?lang=en) of the build guide. 
+- [Hemera](https://www.thingiverse.com/thing:4008778)
+- [Other Tools](Tools.md) - Checkout our Tools page for more if ou want to jump straight to a non-stock ToolChanger.
+
+### General Machine Components
+
+- [Motion System Components](https://github.com/e3donline/ToolChanger/tree/master/V6%20Tool/STLs)
+- [Tool Changer Components](https://github.com/e3donline/ToolChanger/tree/master/STLs)
+- [Mods](Mods.md) - Checkout our mods page for more if ou want to jump straight to a non-stock ToolChanger.
+ 
+

@@ -8,7 +8,7 @@ extra_css:
   - css/extra.css
 theme:
   name: material
-  favicon: img/favicon.ico
+  favicon: img/favicon.png
   logo: img/logo.webp
   features:
     - navigation.instant

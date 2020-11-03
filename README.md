@@ -1,5 +1,6 @@
-# E3D_ToolChanger
-Unofficial Notes and Docs on the E3D ToolChanger
+# ToolChanger.xyz
+
+Unofficial Notes and Docs on the E3D ToolChanger, hosted at [ToolChanger.xyz](http://toolchanger.xyz)
 
 ## Setup
 
