@@ -9,14 +9,18 @@ However, there are some things that are handy to know about ahead of time, befor
 You will need the following tools to complete the build. This is mentioned at the very beginning of the official docs, just referencing here for completeness.
 
 - 5mm, 4mm, 2.5mm & 2mm allen keys
+- M2.5 and M3 thread taps
 - 12mm box wrench
 - Knife
 - Set/Machinist's Square
+- Mallet
+
 
 There are a few things that will be required for assembly that do not come with the ToolChanger / Motion System kit:
 
 - Blue Loctite
 - Super Glue
+- PTFE Grease
 
 ## Printed Components
 
