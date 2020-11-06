@@ -12,6 +12,7 @@ The following is a listing of all the current tools that could be found for the 
 - [Titan Aero](https://www.thingiverse.com/thing:4190989) by Nibbels Bek
 - [Zesty Nimble](https://www.thingiverse.com/thing:3898187) by Zesty Tech
 - [BondTech](https://www.thingiverse.com/thing:4269222) by Kevin Balke
+- [Orbiter Direct Drive](https://forum.e3d-online.com/threads/orbiter-140g-planetary-direct-drive-extruder.3748/#post-37084) by Various
     
 ### Hotend Parts
 
