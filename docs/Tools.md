@@ -6,7 +6,7 @@ The following is a listing of all the current tools that could be found for the 
 
 - [Original Titan Bowden (v6 and Volcano)](https://e3d-online.com/products/bowden-tools) - The default tool.
 - [Hemera direct drive](https://www.thingiverse.com/thing:4008778) by Greg Holloway
-    - [Assembly Guide](https://e3d-online.dozuki.com/Guide/Hemera+Tool+Assembly/152?lang=en)
+    - [Assembly Guide](https://e3d-online.zendesk.com/hc/en-us/article_attachments/4411734340881/03b_-_Hemera_Tool_Assembly__updated_.pdf)
 - [Hemera Mount with Captive Nuts](https://www.prusaprinters.org/prints/59175-e3d-toolchanger-hemera-mount-with-captive-nuts) Mod by Adam Haile of Greg Holloway's design
 - [Hemera with Duet ToolBoard](https://www.thingiverse.com/thing:4620370) by Brendon Tower
 - [Slice Mosquito](https://www.thingiverse.com/thing:4027240) by Ante Vukorepa
