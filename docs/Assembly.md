@@ -1,6 +1,6 @@
 # Assembly
 
-Obviously, the best place to start with with the official [E3D ToolChanger Assembly Guides](https://e3d-online.dozuki.com/c/ToolChanger_and_Motion_System_Assembly_Guides).
+Obviously, the best place to start with with the official [E3D ToolChanger Assembly Guides](https://e3d-online.zendesk.com/hc/en-us/articles/4402640504081-ToolChanger-Motion-System-Assembly-Guides).
 
 However, there are some things that are handy to know about ahead of time, before reading through the entire build guide. 
 
