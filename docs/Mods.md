@@ -14,4 +14,4 @@
 - [Tool Head Molex Quick Release Connector](https://www.thingiverse.com/thing:4362376) by Rob Broek
 - [Duet3 Mounting Adapter](https://www.thingiverse.com/thing:4610422) by Tobias Mueller
 - [MeanWell UHP-500-24 Mounting Adapter](https://www.thingiverse.com/thing:4610503) by Tobias Mueller
-
+- [PebbleWiper Mod](https://e3d-online.zendesk.com/hc/en-us/articles/4408314569745-Pebble-Wiper-Mod-by-Kevin-Mardirossain) by Kevin Mardirossain
